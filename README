@@ -1,3 +1,12 @@
+This repository exists to maintain a Windows build of DISCOUNT together
+with its corresponding source code and build scripts. The `win-build.sh`
+script is designed for use with MSYS2 and the MinGW64-i686 toolchain,
+to generate a `markdown.exe` executable for use in other project.
+
+The original README content follows.
+
+---
+
 DISCOUNT is a implementation of John Gruber's Markdown markup
 language.   It implements, as far as I can tell, all of the
 language as described in
